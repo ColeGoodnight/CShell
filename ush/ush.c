@@ -1,6 +1,6 @@
 /* 
  * ush - Lightweight shell implementation for unix systems built in c
- * Built for WWU systems class
+ * Built for systems class
  *
  * Features:
  * - Unix commands with double quote functionality
